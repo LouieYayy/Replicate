@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* Header Styles */
+h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+}
+
+h3 {
+    font-size: 14px;
+    text-align: center;
+}
+
+/* Content Styles */
+p {
+    font-family: Merriweather, Georgia, serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+ul {
+    font-family: Merriweather, Georgia, serif;
+    font-size: 16px;
+}
+
+li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Footer Styles */
+footer {
+    font-family: Georgia, serif;
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+}
